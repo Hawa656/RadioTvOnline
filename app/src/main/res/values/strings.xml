@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RadioTVOlnline</string>
+    <string name="radio">Radio Online</string>
+    <string name="first_textTv">TV online</string>
+    <string name="second_textTv">Profitez de vos meilleur chaine de télé en ligne</string>
+    <string name="chaine_textTv">Profitez de vos meilleurs chaine de télé en ligne</string>
+    <string name="ortm1">TF1</string>
+    <string name="ortm2">MTV</string>
+    <string name="ortm3">KooraTV</string>
+    <string name="ortm4">Disney</string>
+    <string name="radio_online">Radio Online</string>
+    <string name="play">PLAY</string>
+    <string name="todo">TODO</string>
+</resources>
